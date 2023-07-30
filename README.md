@@ -1,2 +1,3 @@
-# Reinforcement_Learning_Portfolio_3
-University project: 6th Semester, Reinforcement Learning, group: Caro und ich :D
+# RL_Patzer_Code
+University project: 6th Semester, Reinforcement Learning
+Imported from other repo because of group splitting
